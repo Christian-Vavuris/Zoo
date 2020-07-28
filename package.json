@@ -1,0 +1,24 @@
+{
+  "name": "Zoo",
+  "version": "1.0.0",
+  "description": "[![Generic badge](https://img.shields.io/badge/LICENSE-Free to use-<BLUE>.svg)](https://shields.io/) # Project Title: Zoo Cloud Migration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-Vavuris/Zoo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christian-Vavuris/Zoo/issues"
+  },
+  "homepage": "https://github.com/Christian-Vavuris/Zoo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
